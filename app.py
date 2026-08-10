@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 import joblib
-from joblib import load
 
 st.title("Diabetes Prediction")
 st.subheader("_______________________________")
